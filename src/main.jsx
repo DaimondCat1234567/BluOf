@@ -13,7 +13,7 @@ createRoot(document.getElementById("root")).render(
 				<p class='footer-text'>
 				    <a href='/BluOf/credits.html'>CREDITS</a>|
 					<a href='/BluOf/about.html'>ABOUT</a>|
-					<a href='/BluOf/ToS.html'>Terms Of Servise and Use</a>
+					<a href='/BluOf/ToS.html'>Terms Of Service and Use</a>
 				</p>
 				<p class="footer-text">Version: 0.0.1 Alpha</p>
             </div>
